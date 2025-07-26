@@ -1,0 +1,1 @@
+Simple program prepared to be added into Task scheduler on weekly basis. Program loop through list and look for articles via Google for specified topics and put results into excel file with headers and links. Prepared for Czech language, for others need to be adjusted.
